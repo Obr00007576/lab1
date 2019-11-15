@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="63ad0dc1-0632-434a-8e66-9ba8b35fd5ca" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TevWWKMdVNGLPrkDKLmmlAc5rs" />
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ls_test">
+    <configuration name="ls" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ru.spbstu.telematics.java.ls.ls" />
+      <module name="Linux_ls" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ls_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Linux_ls" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.spbstu.telematics.java.ls.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.spbstu.telematics.java.ls" />
+      <option name="MAIN_CLASS_NAME" value="ru.spbstu.telematics.java.ls.ls_test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ls_test.StringSetTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Linux_ls" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.spbstu.telematics.java.ls.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.spbstu.telematics.java.ls" />
+      <option name="MAIN_CLASS_NAME" value="ru.spbstu.telematics.java.ls.ls_test" />
+      <option name="METHOD_NAME" value="StringSetTest1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ls_test.StringSetTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Linux_ls" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.spbstu.telematics.java.ls.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.spbstu.telematics.java.ls" />
+      <option name="MAIN_CLASS_NAME" value="ru.spbstu.telematics.java.ls.ls_test" />
+      <option name="METHOD_NAME" value="StringSetTest2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ls" />
+      <item itemvalue="JUnit.ls_test.StringSetTest1" />
+      <item itemvalue="JUnit.ls_test.StringSetTest2" />
+      <item itemvalue="JUnit.ls_test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ls_test" />
+        <item itemvalue="JUnit.ls_test.StringSetTest2" />
+        <item itemvalue="JUnit.ls_test.StringSetTest1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63ad0dc1-0632-434a-8e66-9ba8b35fd5ca" name="Default Changelist" comment="" />
+      <created>1573833407795</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573833407795</updated>
+    </task>
+    <servers />
+  </component>
+</project>
